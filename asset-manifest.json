@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/THILAKV007/Ignitusnetworks/static/css/main.f6486330.chunk.css",
+    "main.js": "/THILAKV007/Ignitusnetworks/static/js/main.76527ca3.chunk.js",
+    "main.js.map": "/THILAKV007/Ignitusnetworks/static/js/main.76527ca3.chunk.js.map",
+    "runtime-main.js": "/THILAKV007/Ignitusnetworks/static/js/runtime-main.a5848060.js",
+    "runtime-main.js.map": "/THILAKV007/Ignitusnetworks/static/js/runtime-main.a5848060.js.map",
+    "static/css/2.41d48859.chunk.css": "/THILAKV007/Ignitusnetworks/static/css/2.41d48859.chunk.css",
+    "static/js/2.f9b31efe.chunk.js": "/THILAKV007/Ignitusnetworks/static/js/2.f9b31efe.chunk.js",
+    "static/js/2.f9b31efe.chunk.js.map": "/THILAKV007/Ignitusnetworks/static/js/2.f9b31efe.chunk.js.map",
+    "index.html": "/THILAKV007/Ignitusnetworks/index.html",
+    "static/css/2.41d48859.chunk.css.map": "/THILAKV007/Ignitusnetworks/static/css/2.41d48859.chunk.css.map",
+    "static/css/main.f6486330.chunk.css.map": "/THILAKV007/Ignitusnetworks/static/css/main.f6486330.chunk.css.map",
+    "static/js/2.f9b31efe.chunk.js.LICENSE.txt": "/THILAKV007/Ignitusnetworks/static/js/2.f9b31efe.chunk.js.LICENSE.txt",
+    "static/media/ava-01.53d4b552.png": "/THILAKV007/Ignitusnetworks/static/media/ava-01.53d4b552.png",
+    "static/media/ava-02.fe1546a1.png": "/THILAKV007/Ignitusnetworks/static/media/ava-02.fe1546a1.png",
+    "static/media/ava-03.d5247c0b.png": "/THILAKV007/Ignitusnetworks/static/media/ava-03.d5247c0b.png",
+    "static/media/ava-04.37c3b659.png": "/THILAKV007/Ignitusnetworks/static/media/ava-04.37c3b659.png",
+    "static/media/ava-05.53bccd00.png": "/THILAKV007/Ignitusnetworks/static/media/ava-05.53bccd00.png",
+    "static/media/ava-06.2cdc54a3.png": "/THILAKV007/Ignitusnetworks/static/media/ava-06.2cdc54a3.png",
+    "static/media/common-section.css": "/THILAKV007/Ignitusnetworks/static/media/bg.d631560b.jpg",
+    "static/media/hero.bff38e30.jpg": "/THILAKV007/Ignitusnetworks/static/media/hero.bff38e30.jpg",
+    "static/media/img-01.69dfbab6.jpg": "/THILAKV007/Ignitusnetworks/static/media/img-01.69dfbab6.jpg",
+    "static/media/img-02.b01cd2a9.jpg": "/THILAKV007/Ignitusnetworks/static/media/img-02.b01cd2a9.jpg",
+    "static/media/img-03.ae727ea7.jpg": "/THILAKV007/Ignitusnetworks/static/media/img-03.ae727ea7.jpg",
+    "static/media/img-04.c362bd77.jpg": "/THILAKV007/Ignitusnetworks/static/media/img-04.c362bd77.jpg",
+    "static/media/img-05.311ef6cf.jpg": "/THILAKV007/Ignitusnetworks/static/media/img-05.311ef6cf.jpg",
+    "static/media/img-06.6f9c855d.jpg": "/THILAKV007/Ignitusnetworks/static/media/img-06.6f9c855d.jpg",
+    "static/media/img-07.0f39adb7.jpg": "/THILAKV007/Ignitusnetworks/static/media/img-07.0f39adb7.jpg",
+    "static/media/img-08.ea7a3d28.jpg": "/THILAKV007/Ignitusnetworks/static/media/img-08.ea7a3d28.jpg",
+    "static/media/img-09.48de60af.jpg": "/THILAKV007/Ignitusnetworks/static/media/img-09.48de60af.jpg",
+    "static/media/remixicon.css": "/THILAKV007/Ignitusnetworks/static/media/remixicon.f2616f59.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5848060.js",
+    "static/css/2.41d48859.chunk.css",
+    "static/js/2.f9b31efe.chunk.js",
+    "static/css/main.f6486330.chunk.css",
+    "static/js/main.76527ca3.chunk.js"
+  ]
+}
